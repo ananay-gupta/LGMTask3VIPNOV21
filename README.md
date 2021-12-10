@@ -1,6 +1,6 @@
-# LGMTask3VIPNOV21
+# Student Result Management System
 
-#Advanced Level Student Result Management System
+Its a student management result system .
 
 Tech Used:
 1. HTML
@@ -9,11 +9,6 @@ Tech Used:
 4. PHP
 5. MySQL
 
-# Student Management Result System
 
-Its a student management result system .
-
-This repository contains all the details of the website. #LGMVIPNOVEMBER21 #LetsGrowMore
-
-Submitted by-
+Made by-
 Ananay Gupta
